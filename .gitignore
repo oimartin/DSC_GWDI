@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# CSV files
+GWDI_orders_coding_copy.csv
